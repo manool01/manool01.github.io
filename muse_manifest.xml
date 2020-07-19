@@ -1,0 +1,267 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.kingsfork.co.in" resolutions="1x,2x" timestamp="1521382525706">
+  <folder name="css">
+    <file name="site_global.css" crc="3837352894"/>
+    <file name="master_a-master-kingsfork.css" crc="141561995" ref="index"/>
+    <file name="index.css" crc="3927945406" ref="index"/>
+    <file name="services.css" crc="103548791" ref="services"/>
+    <file name="work.css" crc="314801251" ref="work"/>
+    <file name="about.css" crc="4190117577" ref="about"/>
+    <file name="contact.css" crc="3921338691" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="company-details29.5.2014.pdf" crc="148827741" seo="true" mt="1519144225000"/>
+    <file name="company-profile.pdf" crc="148827741" seo="true" mt="1519144225000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>contact:phone>work:phone>services:phone>about:tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about:index:services:work:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4058479950" ref="phone>index"/>
+    <file name="6l5a4245.jpg" crc="4201625668" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:tablet>contact:index:services:work:about:contact"/>
+    <file name="6l5a4270.jpg" crc="260852894" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6l5a4281.jpg" crc="405388389" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6l5a4239.jpg" crc="4036030666" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nautankigali-041.jpg" crc="533516630" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="33-(4).jpg" crc="4294291110" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="34 (4).jpg" crc="4048380991" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-(47).jpg" crc="3870356150" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-(106).jpg" crc="4183085325" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-(139).jpg" crc="3967392811" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interior-(192).jpg" crc="4016852465" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_20049397.jpg" crc="66864213" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="company logo with name145x24.png" crc="3798038627" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company logo with name145x24_2x.png" crc="4243553393" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company logo detailed for web-u26795.png" crc="3858157703" ref="phone>index"/>
+    <file name="company logo detailed for web-u26795_2x.png" crc="4201274813" ref="phone>index"/>
+    <file name="contact-favicon.ico" crc="4058479950" ref="phone>contact"/>
+    <file name="work-favicon.ico" crc="4058479950" ref="phone>work"/>
+    <file name="logo (1)-u17069.png" crc="3966246956" ref="phone>work"/>
+    <file name="logo (1)-u17069_2x.png" crc="4107460932" ref="phone>work"/>
+    <file name="logo-u17067.png" crc="386688022" ref="phone>work"/>
+    <file name="logo-u17067_2x.png" crc="4239022843" ref="phone>work"/>
+    <file name="elegantia-logo-u17079.png" crc="308146852" ref="phone>work"/>
+    <file name="elegantia-logo-u17079_2x.png" crc="3771235843" ref="phone>work"/>
+    <file name="peaceparklogo-u17082.png" crc="483743186" ref="phone>work"/>
+    <file name="peaceparklogo-u17082_2x.png" crc="266219062" ref="phone>work"/>
+    <file name="logo260x15.jpg" crc="4272571649" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo260x15_2x.jpg" crc="3952269723" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="bhmrc-logo51x15.jpg" crc="4060453639" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="bhmrc-logo51x15_2x.jpg" crc="218346635" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="mayurfinallogo134x22.jpg" crc="4132866888" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="mayurfinallogo134x22_2x.jpg" crc="4253359588" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="resto bar88x33.png" crc="4141700737" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="resto bar88x33_2x.png" crc="3818316691" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="atpagyxh35x35.jpg" crc="4082627092" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="atpagyxh35x35_2x.jpg" crc="168292670" seo="true" ref="phone>work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="services-favicon.ico" crc="4058479950" ref="phone>services"/>
+    <file name="about-favicon.ico" crc="4058479950" ref="phone>about"/>
+    <file name="company logo with name.png" crc="4151576968" seo="true" ref="tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="company logo with name_2x.png" crc="489354302" seo="true" ref="tablet>index:tablet>contact:tablet>work:tablet>services:tablet>about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="company logo detailed for web-u26777.png" crc="4101756492" ref="tablet>index"/>
+    <file name="company logo detailed for web-u26777_2x.png" crc="4155466775" ref="tablet>index"/>
+    <file name="dsc_0584375x249.jpg" crc="531368600" seo="true" ref="tablet>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="dsc_0584375x249_2x.jpg" crc="4154606157" seo="true" ref="tablet>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="company logo with name252x42.png" crc="58685774" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company logo with name252x42_2x.png" crc="489354302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company logo detailed for web-u26441.png" crc="4050899840" ref="index"/>
+    <file name="company logo detailed for web-u26441_2x.png" crc="4204027655" ref="index"/>
+    <file name="dsc_1053.jpg" crc="4221594297" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="dsc_1053_2x.jpg" crc="312181485" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="resto bar.png" crc="43814344" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="resto bar_2x.png" crc="187143201" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="peaceparklogo-u13945.png" crc="125091403" ref="work"/>
+    <file name="peaceparklogo-u13945_2x.png" crc="152354114" ref="work"/>
+    <file name="logo2.jpg" crc="4121501517" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo2_2x.jpg" crc="3914986932" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="atpagyxh.jpg" crc="114781311" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="atpagyxh_2x.jpg" crc="33038722" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="bhmrc-logo.jpg" crc="3964744045" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="bhmrc-logo_2x.jpg" crc="3972826640" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo (1)-u13942.png" crc="3762541346" ref="work"/>
+    <file name="logo (1)-u13942_2x.png" crc="260656369" ref="work"/>
+    <file name="mayurfinallogo1.jpg" crc="3810500318" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="mayurfinallogo1_2x.jpg" crc="4134310166" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo-u13950.png" crc="4227011504" ref="work"/>
+    <file name="logo-u13950_2x.png" crc="4116332222" ref="work"/>
+    <file name="elegantia-logo-u13948.png" crc="355887046" ref="work"/>
+    <file name="elegantia-logo-u13948_2x.png" crc="44268423" ref="work"/>
+    <file name="dsc_1318-01.jpg" crc="504631118" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dsc_1318-01_2x.jpg" crc="195107782" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dsc_0584.jpg" crc="4209374993" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="dsc_0584_2x.jpg" crc="3842751832" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_master.css" crc="3881190894" ref="tablet>index"/>
+      <file name="master_b-master.css" crc="137498451" ref="tablet>work:tablet>contact:tablet>services:tablet>about"/>
+      <file name="index.css" crc="500240813" ref="tablet>index"/>
+      <file name="work.css" crc="335459180" ref="tablet>work"/>
+      <file name="contact.css" crc="4177110278" ref="tablet>contact"/>
+      <file name="services.css" crc="49917281" ref="tablet>services"/>
+      <file name="about.css" crc="4172728162" ref="tablet>about"/>
+    </folder>
+    <file name="index.html" crc="102802637" seo="true" mt="1521356051192" redirect="true"/>
+    <file name="contact.html" crc="317660382" seo="true" mt="1521356075819" redirect="true"/>
+    <file name="work.html" crc="162619271" seo="true" mt="1521356075819" redirect="true"/>
+    <file name="services.html" crc="481402727" seo="true" mt="1521356075819" redirect="true"/>
+    <file name="about.html" crc="80452443" seo="true" mt="1521356075819" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="4205153905" ref="phone>services:phone>about:phone>contact:phone>work"/>
+      <file name="master_a-master.css" crc="4273181303" ref="phone>index"/>
+      <file name="services.css" crc="395696792" ref="phone>services"/>
+      <file name="about.css" crc="95648334" ref="phone>about"/>
+      <file name="index.css" crc="3796594050" ref="phone>index"/>
+      <file name="contact.css" crc="4168119476" ref="phone>contact"/>
+      <file name="work.css" crc="4234514280" ref="phone>work"/>
+    </folder>
+    <file name="index.html" crc="3978574911" seo="true" mt="1521356128564" redirect="true"/>
+    <file name="contact.html" crc="456773263" seo="true" mt="1521356258281" redirect="true"/>
+    <file name="work.html" crc="3817100398" seo="true" mt="1521356258281" redirect="true"/>
+    <file name="services.html" crc="3812049262" seo="true" mt="1521356258281" redirect="true"/>
+    <file name="about.html" crc="3884123261" seo="true" mt="1521356258281" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3816723915" seo="true" mt="1521355949755" redirect="true"/>
+  <file name="services.html" crc="446285196" seo="true" mt="1520482128896" redirect="true"/>
+  <file name="work.html" crc="511494804" seo="true" mt="1520482149665" redirect="true"/>
+  <file name="about.html" crc="4222628141" seo="true" mt="1520482094332" redirect="true"/>
+  <file name="contact.html" crc="498192902" seo="true" mt="1520482184626" redirect="true"/>
+</manifest>
